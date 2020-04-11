@@ -1,0 +1,15 @@
+Important Links
+
+1> Getting Started with Redis, Apache Spark and Python 
+
+https://redislabs.com/blog/getting-started-redis-apache-spark-python/
+
+2> Give Spark a 45x speed boost with Redis
+
+https://www.infoworld.com/article/3045083/give-spark-a-45x-speed-boost-with-redis.html
+
+3> Redis Quick Start
+
+https://redis.io/topics/quickstart
+
+
